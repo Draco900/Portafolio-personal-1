@@ -1,7 +1,3 @@
-// Este es mi primer proyecto grande de JavaScript
-// Hecho por un estudiante de 18 años
-// Todavia estoy aprendiendo, asi que puede haber errores
-
 // Selección de elementos DOM
 const hamburger = document.getElementById('hamburger');
 const navLinks = document.getElementById('nav-links');
@@ -182,7 +178,6 @@ function initScrollEffects() {
 }
 
 // Mejorar accesibilidad del sitio
-// Esta función se eliminó para simplificar el código
 
 // Animación de barras de habilidades
 function initSkillBars() {
